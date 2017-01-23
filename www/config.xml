@@ -2,9 +2,9 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.sistema_solar_scb"
-        versionCode = "3" 
-        version     = "0.0.03" >
+        id          = "cat.numancia.sistema_solar_pgv"
+        versionCode = "1" 
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
@@ -13,11 +13,11 @@
    <name>Sistema Solar</name>
 
    <description>
-       Sistema Solar de 2n d'ESO B fet per Sergi Curtu
+       Sistema Solar de 2n d'ESO B fet per Pau Guiot
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="pguiot49@giesnumancia.cat">
+      Pau Guiot
     </author>
 
 	<content src="index.html"/>
